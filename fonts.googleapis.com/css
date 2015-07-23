@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Rubik One';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://themes.googleusercontent.com/static/fonts/rubikone/v1/iePO49FJdkASpcfxdNGBBQ.eot);
+  src: local('Rubik One Regular'), local('RubikOne-Regular'), url(https://themes.googleusercontent.com/static/fonts/rubikone/v1/iePO49FJdkASpcfxdNGBBQ.eot) format('embedded-opentype'), url(https://themes.googleusercontent.com/static/fonts/rubikone/v1/ESwfXlsjjffx2OyHMc7Oyw.woff) format('woff');
+}
